@@ -44,6 +44,6 @@ class StringServer {
 
 ```
 
-##This is what happened after I used /add-message?s=Hello
+## This is what happened after I used /add-message?s=Hello
 
-##This is what happened after I used /add-message?s=How are you
+## This is what happened after I used /add-message?s=How are you
