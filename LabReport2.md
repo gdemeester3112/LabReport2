@@ -45,6 +45,6 @@ class StringServer {
 ```
 
 ## This is what happened after I used /add-message?s=Hello
-![Image]()
+![Image](AddHello.png)
 ## This is what happened after I used /add-message?s=How are you
-![Image]()
+![Image](AddHowareyou.png)
