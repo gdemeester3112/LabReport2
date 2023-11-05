@@ -73,16 +73,16 @@ class StringServer {
 
 ## Private key on my computer
 
-![Image](private_on_mac)
+![Image](private_on_mac.png)
 
 
 ## Public key on remote login
 
-![Image](public_on_remote)
+![Image](public_on_remote.png)
 
 ## Login with no password
 
-![Image](logging_on)
+![Image](logging_on.png)
 
 
 # Part 3:
