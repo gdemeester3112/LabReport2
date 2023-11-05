@@ -47,8 +47,24 @@ class StringServer {
 ## This is what happened after I used /add-message?s=Hello
 ![Image](AddHello.png)
 
-1) The methods in my code that were called were StringServer and handleRequest
-2) 
-
+1) The methods in my code that were called were handleRequest and main
+   - handleRequest gets the https request and adds a string when imputed in the URl
+   - main is a way to get the server started
+     
+2) The relevant argument to handle request are
+   - num which keeps track of number of messaged that have been added so it starts at 0 and when the first line is added it gets incremented to 1.
+   - message which stores the added message which in this case is Hello\n we need \n to get the next message on the next line.
+     
+3) The value of message changes from "" to "1. Hello\n"
+   - the value of num changes from 0 to 1
 ## This is what happened after I used /add-message?s=How are you
 ![Image](AddHowareyou.png)
+
+1) The methods in my code that were called were handleRequest and main
+   - handleRequest gets the https request and adds a string when imputed in the URl
+   - main is a way to get the server started
+2) The relevant argument to handle request are
+   - num which keeps track of number of messaged that have been added so it starts at 0 and when the first line is added it gets incremented to 1.
+   - message which stores the added message which in this case is Hello\n we need \n to get the next message on the next line.
+3) The value of message changes from "1. Hello\n" to "1. Hello\n2. How are you\n"
+   - the value of num changes from 1 to 2
