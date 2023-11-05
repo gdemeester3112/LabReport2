@@ -46,5 +46,9 @@ class StringServer {
 
 ## This is what happened after I used /add-message?s=Hello
 ![Image](AddHello.png)
+
+1) The methods in my code that were called were StringServer and handleRequest
+2) 
+
 ## This is what happened after I used /add-message?s=How are you
 ![Image](AddHowareyou.png)
