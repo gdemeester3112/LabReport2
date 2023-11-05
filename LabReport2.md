@@ -1,4 +1,4 @@
-# This is my code for StringServer.java:
+# Part 1, This is my code for StringServer.java:
 
 ```
 import java.io.IOException;
@@ -68,3 +68,23 @@ class StringServer {
    - message which stores the added message which in this case is Hello\n we need \n to get the next message on the next line.
 3) The value of message changes from "1. Hello\n" to "1. Hello\n2. How are you\n"
    - the value of num changes from 1 to 2
+
+# Part 2:
+
+## Private key on my computer
+
+![Image](private_on_mac)
+
+
+## Public key on remote login
+
+![Image](public_on_remote)
+
+## Login with no password
+
+![Image](logging_on)
+
+
+# Part 3:
+
+Something I learnt that was important during week 2 and 3 is setting up a local web server as I believe that it can be important for companies to store data or interact with customers. Another thing I found interesting was the scp and mkdir command, even though I already had some knowledge on how to use mkdir, scp was brand new to me and it was interesting to me to understand how it worked.
