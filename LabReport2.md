@@ -75,10 +75,13 @@ class StringServer {
 
 ![Image](private_on_mac.png)
 
+The private key is id_rsa
 
 ## Public key on remote login
 
 ![Image](public_on_remote.png)
+
+The public key is id_rsa.pub
 
 ## Login with no password
 
